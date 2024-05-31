@@ -9,7 +9,7 @@
 #
 Name     : kstatusnotifieritem
 Version  : 6.2.0
-Release  : 5
+Release  : 6
 URL      : https://download.kde.org/stable/frameworks/6.2/kstatusnotifieritem-6.2.0.tar.xz
 Source0  : https://download.kde.org/stable/frameworks/6.2/kstatusnotifieritem-6.2.0.tar.xz
 Source1  : https://download.kde.org/stable/frameworks/6.2/kstatusnotifieritem-6.2.0.tar.xz.sig
