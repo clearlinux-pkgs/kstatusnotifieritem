@@ -1,61 +1,61 @@
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem10setToolTipERK5QIconRK7QStringS5_
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem10setToolTipERK7QStringS2_S2_
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem11eventFilterEP7QObjectP6QEvent
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem11qt_metacallEN11QMetaObject4CallEiPPv
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem11qt_metacastEPKc
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem11setCategoryENS_12ItemCategoryE
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem11showMessageERK7QStringS2_S2_i
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem12removeActionERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem13quitRequestedEv
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem13setIconByNameERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem14setContextMenuEP5QMenu
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem15scrollRequestedEiN2Qt11OrientationE
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem15setIconByPixmapERK5QIcon
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem15setToolTipTitleERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem17activateRequestedEbRK6QPoint
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem18setToolTipSubTitleERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem19setAssociatedWindowEP7QWindow
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem20hideAssociatedWindowEv
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem20setOverlayIconByNameERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem20setToolTipIconByNameERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem22setAttentionIconByNameERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem22setOverlayIconByPixmapERK5QIcon
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem22setToolTipIconByPixmapERK5QIcon
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem23setAttentionMovieByNameERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem24setAttentionIconByPixmapERK5QIcon
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem25setStandardActionsEnabledEb
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem26secondaryActivateRequestedERK6QPoint
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem8activateERK6QPoint
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem8setTitleERK7QString
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem9abortQuitEv
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem9addActionERK7QStringP7QAction
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItem9setStatusENS_10ItemStatusE
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItemC1EP7QObject
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItemC1ERK7QStringP7QObject
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItemC2EP7QObject
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItemC2ERK7QStringP7QObject
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItemD0Ev
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItemD1Ev
-libKF6StatusNotifierItem.so.6:_ZN19KStatusNotifierItemD2Ev
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem10iconPixmapEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem10metaObjectEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem11contextMenuEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem12toolTipTitleEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem13providedTokenEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem15overlayIconNameEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem15toolTipIconNameEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem15toolTipSubTitleEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem16actionCollectionEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem16associatedWindowEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem17attentionIconNameEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem17overlayIconPixmapEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem17toolTipIconPixmapEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem18attentionMovieNameEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem19attentionIconPixmapEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem22standardActionsEnabledEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem2idEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem5titleEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem6actionERK7QString
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem6statusEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem8categoryEv
-libKF6StatusNotifierItem.so.6:_ZNK19KStatusNotifierItem8iconNameEv
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setToolTip(QIcon const&, QString const&, QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setToolTip(QString const&, QString const&, QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::eventFilter(QObject*, QEvent*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::qt_metacall(QMetaObject::Call, int, void**)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::qt_metacast(char const*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setCategory(KStatusNotifierItem::ItemCategory)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::showMessage(QString const&, QString const&, QString const&, int)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::removeAction(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::quitRequested()
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setIconByName(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setContextMenu(QMenu*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::scrollRequested(int, Qt::Orientation)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setIconByPixmap(QIcon const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setToolTipTitle(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::activateRequested(bool, QPoint const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setToolTipSubTitle(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setAssociatedWindow(QWindow*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::hideAssociatedWindow()
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setOverlayIconByName(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setToolTipIconByName(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setAttentionIconByName(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setOverlayIconByPixmap(QIcon const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setToolTipIconByPixmap(QIcon const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setAttentionMovieByName(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setAttentionIconByPixmap(QIcon const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setStandardActionsEnabled(bool)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::secondaryActivateRequested(QPoint const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::activate(QPoint const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setTitle(QString const&)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::abortQuit()
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::addAction(QString const&, QAction*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::setStatus(KStatusNotifierItem::ItemStatus)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::KStatusNotifierItem(QObject*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::KStatusNotifierItem(QString const&, QObject*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::KStatusNotifierItem(QObject*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::KStatusNotifierItem(QString const&, QObject*)
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::~KStatusNotifierItem()
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::~KStatusNotifierItem()
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::~KStatusNotifierItem()
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::iconPixmap() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::metaObject() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::contextMenu() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::toolTipTitle() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::providedToken() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::overlayIconName() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::toolTipIconName() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::toolTipSubTitle() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::actionCollection() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::associatedWindow() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::attentionIconName() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::overlayIconPixmap() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::toolTipIconPixmap() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::attentionMovieName() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::attentionIconPixmap() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::standardActionsEnabled() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::id() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::title() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::action(QString const&) const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::status() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::category() const
+libKF6StatusNotifierItem.so.6:KStatusNotifierItem::iconName() const
